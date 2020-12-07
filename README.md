@@ -16,7 +16,7 @@ AlienInvasion game
 My first game made with the help of a book to start an adventure with python. A 2D game of shooting down an alien fleet with a ship
 
 ## Screenshot
-![Example screenshot](./images/AlienInvasion.jpg)
+![Example screenshot](./images/AlienInvasion.png)
 
 ## Technologies
 
