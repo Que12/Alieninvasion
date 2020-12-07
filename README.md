@@ -1,4 +1,4 @@
-##Alieninvasion
+## Alieninvasion
 
 AlienInvasion game 
 
@@ -15,22 +15,22 @@ AlienInvasion game
 
 My first game made with the help of a book to start an adventure with python. A 2D game of shooting down an alien fleet with a ship
 
-##Screenshot
+## Screenshot
 ![Example screenshot](./images/AlienInvasion.jpg)
 
-##Technologies
+## Technologies
 
  Python - version 3.8
 
-##Features
+## Features
 
-*Ability to save Scores and Load the highest locally 
-*Ability to to increase speed after passing several levels
+* Ability to save Scores and Load the highest locally 
+* Ability to to increase speed after passing several levels
 ##Status
 
 Project is: finished
 
-##Inspiration
+## Inspiration
 based on old  games from the arcade era
 
 ## Contact
